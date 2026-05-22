@@ -1,0 +1,6 @@
+{
+  "name": "To Do App",
+  "description": "A simple and elegant application to manage your daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
